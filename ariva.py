@@ -50,8 +50,8 @@ console = Console(theme=custom_theme_dark)
 ARIVA_BANNER = """
    ╔══════════════════════════════════════╗
    ║       ✨ ARIVA ELITE SMS SYSTEM ✨    ║
-   ║       Developer By @sametex3         ║
-   ║       Channel: t.me/arivatools       ║
+   ║       Developer By Anonymous          ║
+   ║       Channel: t.me/arivatools        ║
    ╚══════════════════════════════════════╝
 """
 
