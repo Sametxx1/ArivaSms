@@ -1,4 +1,4 @@
-# main.py
+# EĞİTİM AMAÇLIDIR ARİVA HACK TEAM TARAFINDAN OLUŞTURULDU
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -58,7 +58,7 @@ def run_once(phone: str):
                 results.append((name, False))
             time.sleep(random.uniform(0.2, 0.5))
 
-    # Özet tablo
+    
     table = Table(title="Gönderim Sonuçları", box=box.MINIMAL_DOUBLE_HEAD)
     table.add_column("Servis", style="cyan", no_wrap=True)
     table.add_column("Durum", style="bold")
